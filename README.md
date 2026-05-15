@@ -1,8 +1,8 @@
 # Case 7: Streaming Sales Pipeline
 
 **Live demo:** Runnable locally with `streamlit run app/dashboard.py`
-**Repo:** <ADD_GITHUB_REPO_URL>  
-**Demo video:** <ADD_DEMO_VIDEO_LINK>
+**Repo:** https://github.com/ritvik-b23/case-7_streaming_sales_pipeline 
+**Demo video:** https://drive.google.com/file/d/1rAhvJaR76NwdnVYfl9xYr2vuhiMjr9Uk/view?usp=sharing
 
 ## What this is
 
